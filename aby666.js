@@ -1899,11 +1899,11 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
             case 'list': case 'menu': case 'help': case '?': {
                 anu = ` 
-*AMPAS NIH!!*
+*⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}aefka
-ダ ${prefix}santed
-ダ ${prefix}masszeh
+ダ ${prefix}buttonwalz
+ダ ${prefix}bugxnxx
 ダ ${prefix}kontol
 ダ ${prefix}haibro
 ダ ${prefix}teg666
@@ -1916,7 +1916,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}meki -Number
 
 
- *GROUP MENU*
+ *GROUP MENU ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}linkgroup
 ダ ${prefix}ephemeral [option]
@@ -1940,7 +1940,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}hapusvote
 
 
- *SEARCH MENU*
+ *SEARCH MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}play [query]
 ダ ${prefix}yts [query]
@@ -1953,13 +1953,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}ringtone [query]
 
 
-*MAKER MENU*
+*MAKER MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}attp [text]
 ダ ${prefix}ttp [text]
 
 
- *FUN MENU*
+ *FUN MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}halah
 ダ ${prefix}hilih
@@ -1976,12 +1976,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}suitpvp [@tag]
 
 
- *PRIMBON MENU*
+ *PRIMBON MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}speedtest
 
 
- *TOOLS MENU*
+ *TOOLS MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}toimage
 ダ ${prefix}removebg
@@ -1999,7 +1999,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}smeme
 
 
- *MAIN MENU*
+ *MAIN MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}ping
 ダ ${prefix}owner
@@ -2013,7 +2013,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}speedtest
 
 
- *DATA BASE MENU*
+ *DATA BASE MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}setcmd
 ダ ${prefix}listcmd
@@ -2025,14 +2025,14 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}delmsg
 
 
- *ANONYMOUS MENU*
+ *ANONYMOUS MENU⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}anonymous
 ダ ${prefix}start
 ダ ${prefix}next
 ダ ${prefix}keluar
 
- *ONLY OWNER*
+ *ONLY OWNER⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🇮🇩*
 
 ダ ${prefix}react [emoji]
 ダ ${prefix}chat [option]
@@ -2048,12 +2048,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'GYZXO-666-ABY',
+                                    displayText: ' ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟',
                                     url: 'https://youtube.com/channel/UCN4FVAxv5GombVvUOvWLZLg'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'Script',
+                                    displayText: 'TIKTOK',
                                     url: "https://youtube.com/channel/UCN4FVAxv5GombVvUOvWLZLg"
                                 }
                             }, {
@@ -2085,10 +2085,10 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                      }
             break
             case 'kelentod':
-            kelentod = `Wa.me/6285711621559 Nomor Owner Bot!!!`
+            kelentod = `Wa.me/6285723156229 Nomor Owner Bot!!!`
             gyzxo666.sendMessage(m.chat, {text: kelentod})
             break
-            case 'santed':
+            case 'buttonwalz':
               if (!isCreator) throw mess.owner
               const buttons = [
   {buttonId: `${prefix}djisdjiwdjjes`, buttonText: {displayText: buttonvirus}, type: 1},
@@ -2097,22 +2097,22 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ]
 
 const buttonMessage = {
-    text: "🥶666🥶",
-    footerText: 'Aby Gyzxo',
+    text: "🥶999🥶",
+    footerText: ' ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟',
     buttons: buttons,
     headerType: 1
 }
 gyzxo666.sendMessage(m.chat, buttonMessage)
                break
- case 'masszeh':
+ case 'bugxnxx':
 if (!isCreator) throw mess.owner
-kontolu = '``🥶 Gyzxo - 666 - Aby 🥶``',
-gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 Gyzxo - 666 - Aby 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
+kontolu = '``🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟ 🥶``',
+gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
 break
 case 'kontol':
 if (!isCreator) throw mess.owner
 y1 = fs.readFileSync('./pirtex/iphone.mp3')
-gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 Gyzxo - 666 - Aby 🥶 ${doctext}.mp3`, quoted: m})
+gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟ 🥶 ${doctext}.mp3`, quoted: m})
 break
 }
 if (command) setInterval(async () => {
